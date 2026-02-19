@@ -1,0 +1,6 @@
+{
+  "token": "PUT_YOUR_BOT_TOKEN_HERE",
+  "prefix": ";",
+  "owners": ["PUT_YOUR_DISCORD_ID_HERE"],
+  "defaultCooldown": 5
+}
