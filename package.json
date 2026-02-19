@@ -1,0 +1,13 @@
+{
+  "name": "advanced-points-system-bot",
+  "version": "2.0.0",
+  "description": "Advanced Points System Bot with cooldown, logging, confirm buttons, and optimized JSON database.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
